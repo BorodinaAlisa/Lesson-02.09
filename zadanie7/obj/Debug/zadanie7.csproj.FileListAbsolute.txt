@@ -1,0 +1,7 @@
+C:\Users\Алиса\source\repos\Lesson 02.09\zadanie7\bin\Debug\zadanie7.exe.config
+C:\Users\Алиса\source\repos\Lesson 02.09\zadanie7\bin\Debug\zadanie7.exe
+C:\Users\Алиса\source\repos\Lesson 02.09\zadanie7\bin\Debug\zadanie7.pdb
+C:\Users\Алиса\source\repos\Lesson 02.09\zadanie7\obj\Debug\zadanie7.csproj.AssemblyReference.cache
+C:\Users\Алиса\source\repos\Lesson 02.09\zadanie7\obj\Debug\zadanie7.csproj.CoreCompileInputs.cache
+C:\Users\Алиса\source\repos\Lesson 02.09\zadanie7\obj\Debug\zadanie7.exe
+C:\Users\Алиса\source\repos\Lesson 02.09\zadanie7\obj\Debug\zadanie7.pdb
